@@ -6,6 +6,8 @@ namespace MyBankingAPI.Interfaces
     {
         Account GetAccount(int customerId, int accountId);
         void UpdateAccount(Account account);
+        void RemoveAccount(Account account);
+
     }
 
 }

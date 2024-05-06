@@ -31,6 +31,14 @@ namespace MyBankingAPI.Repositories
             }
         }
 
+        public void RemoveAccount(Account account)
+        {
+            var accounts = LoadAccounts();
+            accounts.RemoveAll(a => a.AccountId == account.AccountId);
+            SaveAccounts(accounts);
+        }
+
+
         private List<Account> LoadAccounts()
         {
             var json = File.ReadAllText(_filePath);

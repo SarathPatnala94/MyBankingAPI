@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sarath Patnala\\source\\repos\\bankingAPI\\MyBankingAPI\\MyBankingAPI.csproj": {}
+    "D:\\MyProject\\MyBankingAPI\\MyBankingAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sarath Patnala\\source\\repos\\bankingAPI\\MyBankingAPI\\MyBankingAPI.csproj": {
+    "D:\\MyProject\\MyBankingAPI\\MyBankingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sarath Patnala\\source\\repos\\bankingAPI\\MyBankingAPI\\MyBankingAPI.csproj",
+        "projectUniqueName": "D:\\MyProject\\MyBankingAPI\\MyBankingAPI.csproj",
         "projectName": "MyBankingAPI",
-        "projectPath": "C:\\Users\\Sarath Patnala\\source\\repos\\bankingAPI\\MyBankingAPI\\MyBankingAPI.csproj",
+        "projectPath": "D:\\MyProject\\MyBankingAPI\\MyBankingAPI.csproj",
         "packagesPath": "C:\\Users\\Sarath Patnala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sarath Patnala\\source\\repos\\bankingAPI\\MyBankingAPI\\obj\\",
+        "outputPath": "D:\\MyProject\\MyBankingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sarath Patnala\\AppData\\Roaming\\NuGet\\NuGet.Config",
