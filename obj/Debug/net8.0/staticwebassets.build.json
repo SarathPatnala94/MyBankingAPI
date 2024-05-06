@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aSY2Uu3JOik3iRvsy5q11eBPqbnc4g4VVyCc/UkfZYk=",
+  "Source": "MyBankingAPI",
+  "BasePath": "_content/MyBankingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdvdV2Ys/NQS7YojI610A2YQCpSr80TKkHjKfbwe48hlHmC0WidOnTDq57BQST67P9oLtwCPMSH/zhpdSL1qjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sarath Patnala\\source\\repos\\bankingAPI\\MyBankingAPI\\MyBankingAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sarath Patnala\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Sarath Patnala\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Sarath Patnala\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Sarath Patnala\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Sarath Patnala\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Sarath Patnala\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Sarath Patnala\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
