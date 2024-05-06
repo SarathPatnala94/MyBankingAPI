@@ -34,3 +34,39 @@ C:\Users\Sarath Patnala\source\repos\bankingAPI\MyBankingAPI\obj\Debug\net8.0\re
 C:\Users\Sarath Patnala\source\repos\bankingAPI\MyBankingAPI\bin\Debug\net8.0\files\accounts.json
 C:\Users\Sarath Patnala\source\repos\bankingAPI\MyBankingAPI\bin\Debug\net8.0\files\customers.json
 C:\Users\Sarath Patnala\source\repos\bankingAPI\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.sourcelink.json
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\appsettings.json
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\files\accounts.json
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\files\customers.json
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\MyBankingAPI.exe
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\MyBankingAPI.deps.json
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\MyBankingAPI.runtimeconfig.json
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\MyBankingAPI.dll
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\MyBankingAPI.pdb
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyProject\MyBankingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.csproj.AssemblyReference.cache
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.AssemblyInfoInputs.cache
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.AssemblyInfo.cs
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.csproj.CoreCompileInputs.cache
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.sourcelink.json
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\staticwebassets\msbuild.MyBankingAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MyBankingAPI.props
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyBankingAPI.props
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyBankingAPI.props
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\scopedcss\bundle\MyBankingAPI.styles.css
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankin.BEE83F68.Up2Date
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.dll
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\refint\MyBankingAPI.dll
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.pdb
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.genruntimeconfig.cache
+D:\MyProject\MyBankingAPI\obj\Debug\net8.0\ref\MyBankingAPI.dll

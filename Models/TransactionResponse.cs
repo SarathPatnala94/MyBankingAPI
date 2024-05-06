@@ -1,6 +1,6 @@
 ﻿namespace MyBankingAPI.Models
 {
-    public class DepositResponse
+    public class TransactionResponse
     {
         public int CustomerId { get; set; }
         public int AccountId { get; set; }

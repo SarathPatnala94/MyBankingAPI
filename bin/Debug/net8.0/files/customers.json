@@ -1,4 +1,18 @@
 [
-  { "CustomerId": 1, "Name": "John Doe" },
-  { "CustomerId": 2, "Name": "Jane Smith" }
+  {
+    "CustomerId": 1,
+    "Name": "Micheal Paul"
+  },
+  {
+    "CustomerId": 2,
+    "Name": "James Cameron"
+  },
+  {
+    "CustomerId": 3,
+    "Name": "John Smith"
+  },
+  {
+    "CustomerId": 4,
+    "Name": "Christopher Nolan"
+  }
 ]

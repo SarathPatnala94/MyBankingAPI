@@ -2,11 +2,16 @@
   {
     "AccountId": 1,
     "CustomerId": 1,
-    "Balance": 1300.0
+    "Balance": 1350.0
   },
   {
     "AccountId": 2,
     "CustomerId": 2,
     "Balance": 500.0
+  },
+  {
+    "AccountId": 3,
+    "CustomerId": 3,
+    "Balance": 200.0
   }
 ]
