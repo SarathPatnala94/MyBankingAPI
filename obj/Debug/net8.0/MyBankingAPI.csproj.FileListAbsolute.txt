@@ -31,3 +31,6 @@ C:\Users\Sarath Patnala\source\repos\bankingAPI\MyBankingAPI\obj\Debug\net8.0\re
 C:\Users\Sarath Patnala\source\repos\bankingAPI\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.pdb
 C:\Users\Sarath Patnala\source\repos\bankingAPI\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.genruntimeconfig.cache
 C:\Users\Sarath Patnala\source\repos\bankingAPI\MyBankingAPI\obj\Debug\net8.0\ref\MyBankingAPI.dll
+C:\Users\Sarath Patnala\source\repos\bankingAPI\MyBankingAPI\bin\Debug\net8.0\files\accounts.json
+C:\Users\Sarath Patnala\source\repos\bankingAPI\MyBankingAPI\bin\Debug\net8.0\files\customers.json
+C:\Users\Sarath Patnala\source\repos\bankingAPI\MyBankingAPI\obj\Debug\net8.0\MyBankingAPI.sourcelink.json

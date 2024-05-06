@@ -10,8 +10,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddSingleton<IAccountRepository>(new JsonAccountRepository(@"D:\myBankingAPIFiles\accounts.json"));
-builder.Services.AddSingleton<ICustomerRepository>(new JsonCustomerRepository(@"D:\myBankingAPIFiles\customers.json"));
+var baseDirectory = Directory.GetCurrentDirectory();
+
+// Construct the relative paths to the JSON files
+var accountsFilePath = Path.Combine(baseDirectory, "files", "accounts.json");
+var customersFilePath = Path.Combine(baseDirectory, "files", "customers.json");
+
+// Register repositories with the relative file paths
+builder.Services.AddSingleton<IAccountRepository>(new JsonAccountRepository(accountsFilePath));
+builder.Services.AddSingleton<ICustomerRepository>(new JsonCustomerRepository(customersFilePath));
 
 var app = builder.Build();
 

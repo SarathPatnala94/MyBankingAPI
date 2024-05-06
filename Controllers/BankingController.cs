@@ -22,7 +22,7 @@ namespace MyBankingAPI.Controllers
         [HttpPost("Deposit")]
         public IActionResult MakeDeposit([FromBody] DepositRequest request)
         {
-            // Validate request
+            // Validate request for this account
             if (request.Amount <= 0)
                 return BadRequest("Deposit amount must be greater than 0.");
 
